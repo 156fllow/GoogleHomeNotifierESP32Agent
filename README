@@ -1,0 +1,14 @@
+GoogleHomeNotifierESP32Agent  (for ESP32)
+
+Google Home へのキャスト用エージェント.
+所定のトピックの MQTT メッセージをトリガーに処理を行う.
+
+horihiro 様 による「esp8266-google-home-notifier」を
+カスタマイズしたライブラリを使用.
+
+   オリジナル : https://github.com/horihiro/esp8266-google-home-notifier 
+ 手を加えた版 : https://github.com/mkttanabe/esp8266-google-home-notifier
+
+
+2018 KLab Inc.
+
