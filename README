@@ -8,7 +8,7 @@ horihiro 様 による「esp8266-google-home-notifier」を
 カスタマイズしたライブラリを使用.
 
    オリジナル : https://github.com/horihiro/esp8266-google-home-notifier 
- 手を加えた版 : https://github.com/mkttanabe/esp8266-google-home-notifier
+ 手を加えた版 : https://github.com/mkttanabe/esp8266-google-home-notifier/tree/private
 
 ブログ記事
 http://dsas.blog.klab.org/archives/2018-08/52297379.html
